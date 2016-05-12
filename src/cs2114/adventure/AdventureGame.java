@@ -5,7 +5,7 @@ package cs2114.adventure;
  * The class is the main body for the game which provides several types of
  * commands.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Feb 10, 2013
  */
 public class AdventureGame
