@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 /**
  * The class is to drop an item command for the game.
  *
- * @author Sheng Zhou(zsheng2)
+ * @author Sheng Zhou
  * @version Feb 13, 2013
  */
 public class DropItemCommand
