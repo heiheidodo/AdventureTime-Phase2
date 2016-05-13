@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * The class is a player class which is to check several peroperties.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Feb 2, 2013
  */
 public class MyPlayer
