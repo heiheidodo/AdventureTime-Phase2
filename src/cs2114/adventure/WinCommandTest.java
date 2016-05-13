@@ -7,7 +7,7 @@ import student.TestCase;
 /**
  * The test class for WinComman class.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou 
  * @version Feb 13, 2013
  */
 
