@@ -8,7 +8,7 @@ import java.io.PrintWriter;
  * The method is to give the player a message which contains all the items the
  * player has.
  *
- * @author Sheng Zhou(zsheng2)
+ * @author Sheng Zhou
  * @version Feb 13, 2013
  */
 public class InventoryCommand
