@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 /**
  * This command is to check if you win the game.
  *
- * @author Sheng Zhou(zsheng2)
+ * @author Sheng Zhou
  * @version Feb 13, 2013
  */
 public class WinCommand
