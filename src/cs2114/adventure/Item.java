@@ -4,7 +4,7 @@ package cs2114.adventure;
 /**
  * The class is about items.
  *
- * @author Sheng Zhou(zsheng2)
+ * @author Sheng Zhou
  * @version Feb 2, 2013
  */
 
