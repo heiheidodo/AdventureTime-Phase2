@@ -5,7 +5,7 @@ import student.TestCase;
 /**
  *  Test class for item class.
  *
- *  @author Sheng Zhou (zsheng2)
+ *  @author Sheng Zhou
  *  @version Feb 4, 2013
  */
 public class ItemTest extends TestCase
