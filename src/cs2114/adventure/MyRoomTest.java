@@ -6,7 +6,7 @@ import student.TestCase;
 /**
  * The test class for MyRoom class.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Feb 4, 2013
  */
 public class MyRoomTest
