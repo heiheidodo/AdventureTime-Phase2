@@ -6,7 +6,7 @@ import student.TestCase;
 /**
  *  The class is for test several functions using in the game class.
  *
- *  @author Sheng Zhou (zsheng2)
+ *  @author Sheng Zhou
  *  @version Feb 13, 2013
  */
 public class AdventureGameTest extends TestCase
